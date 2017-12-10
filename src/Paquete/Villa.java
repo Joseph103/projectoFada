@@ -75,14 +75,12 @@ public class Villa {
                 String Z = Y.replace("]", "");
                 X = Z.split("",1);
                 
-                     if(X==pais.get(i)){
-                   
-                     }
-                }
+                     
                
                 System.out.println(Arrays.toString(X));
 //                    if (pais.get(i)=)
             }
+           }
 
         }
 
